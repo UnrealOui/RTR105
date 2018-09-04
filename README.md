@@ -3,22 +3,22 @@
 ###### Pirma nodarbība =
 firefox & :
 > Atver FirefoxWebBrowser
-echo $0
+echo $0 :
 > Parada Shell versiju
-man
+man :
 > Parada info par jebkuru komandu
-whoami
+whoami :
 > Parada datora lietotāja vārdu
-who
+who :
 > Parada kurš ir piesliegts
-pwd
+pwd :
 > Parada esošo direktoriju
-uname
+uname :
 > Izdruka sistēmas info
-; uname -r
-: Izdruka kodola info
-; uname -a
-: Izdruka visu info izņemot -p un -i
+uname -r :
+> Izdruka kodola info
+uname -a :
+> Izdruka visu info izņemot -p un -i
 
 
 ; ls
