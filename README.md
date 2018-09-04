@@ -1,6 +1,6 @@
 # RTR105
 ###### Datormācības kursa e-klade
-## Pirma nodarbība :+l:
+## Pirma nodarbība :+1:
 firefox & :
 > Atver FirefoxWebBrowser
 
