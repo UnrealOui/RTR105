@@ -1,8 +1,8 @@
 # RTR105
 # Datormācības kursa e-klade
-= Pirma nodarbība =
-; firefox & 
-: Atver FirefoxWebBrowser
+###### Pirma nodarbība =
+firefox & :
+> Atver FirefoxWebBrowser
 
 
 ; echo $0
