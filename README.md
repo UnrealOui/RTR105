@@ -1,6 +1,6 @@
 # RTR105
-# Datormācības kursa e-klade
-###### Pirma nodarbība =
+###### Datormācības kursa e-klade
+## Pirma nodarbība :+l:
 firefox & :
 > Atver FirefoxWebBrowser
 
@@ -28,17 +28,17 @@ uname -r :
 uname -a :
 > Izdruka visu info izņemot -p un -i
 
+ls :
+> Parada mapes
 
-; ls
-: Parada mapes
-; ls -a
-: Parada visas mapes(ari pasleptos/ignorējot . zīmi)
-; ls -l
-: Parada mapes ar papildinfo
-; ls -la
-: Parada katro lietotāju mapes un failus ar papildinfo
+ls -a :
+> Parada visas mapes(ari pasleptos/ignorējot . zīmi)
 
+ls -l :
+> Parada mapes ar papildinfo
 
-; history
-: Parada rakstīto terminālā
-s
+ls -la :
+> Parada katro lietotāju mapes un failus ar papildinfo
+
+history :
+> Parada rakstīto terminālā
