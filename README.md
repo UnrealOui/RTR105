@@ -1,2 +1,2 @@
 # RTR105
-Datormācības kursa e-klāde
+Datormācības kursa e-klade
