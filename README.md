@@ -2,9 +2,43 @@
 Datormācības kursa e-klade
 
 
+; firefox & 
+:Atver FirefoxWebBrowser
+
+
+; echo $0
+:Parada Shell versiju
+
+
+; man
+:Parada info par jebkuru komandu
+
+
+; whoami
+:Parada datora lietotāja vārdu
+; who
+:Parada kurš ir piesliegts
+; pwd
+:Parada esošo direktoriju
+
+
 ; uname
-:izdruka sistēmas info
+:Izdruka sistēmas info
 ; uname -r
-:izdruka kodola info
+:Izdruka kodola info
 ; uname -a
-:izdruka visu info izņemot -p un -i
+:Izdruka visu info izņemot -p un -i
+
+
+; ls
+:Parada mapes
+; ls -a
+:Parada visas mapes(ari pasleptos/ignorējot . zīmi)
+; ls -l
+:Parada mapes ar papildinfo
+; ls -la
+:Parada katro lietotāju mapes un failus ar papildinfo
+
+
+; history
+:Parada rakstīto terminālā
