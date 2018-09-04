@@ -2,6 +2,9 @@
 Datormācības kursa e-klade
 
 
+; Term : Definition1
+
+
 ; firefox & 
 :Atver FirefoxWebBrowser
 
