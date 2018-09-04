@@ -41,3 +41,4 @@
 
 ; history
 : Parada rakstīto terminālā
+s
