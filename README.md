@@ -2,43 +2,43 @@
 ###### Datormācības kursa e-klade
 ## Pirma nodarbība :+1:
 **firefox & :**
-> Atver FirefoxWebBrowser
+> *Atver FirefoxWebBrowser*
 
 **echo $0 :**
-> Parada Shell versiju
+> *Parada Shell versiju*
 
 **man :**
-> Parada info par jebkuru komandu
+> *Parada info par jebkuru komandu*
 
 **whoami :**
-> Parada datora lietotāja vārdu
+> *Parada datora lietotāja vārdu*
 
 **who :**
-> Parada kurš ir piesliegts
+> *Parada kurš ir piesliegts*
 
 **pwd :**
-> Parada esošo direktoriju
+> *Parada esošo direktoriju*
 
 **uname :**
-> Izdruka sistēmas info
+> *Izdruka sistēmas info*
 
 **uname -r :**
-> Izdruka kodola info
+> *Izdruka kodola info*
 
 **uname -a :**
-> Izdruka visu info izņemot -p un -i
+> *Izdruka visu info izņemot -p un -i*
 
 **ls :**
-> Parada mapes
+> *Parada mapes*
 
 **ls -a :**
-> Parada visas mapes(ari pasleptos/ignorējot . zīmi)
+> *Parada visas mapes(ari pasleptos/ignorējot . zīmi)*
 
 **ls -l :**
-> Parada mapes ar papildinfo
+> *Parada mapes ar papildinfo*
 
 **ls -la :**
-> Parada katro lietotāju mapes un failus ar papildinfo
+> *Parada katro lietotāju mapes un failus ar papildinfo*
 
 **history :**
-> Parada rakstīto terminālā
+> *Parada rakstīto terminālā*
