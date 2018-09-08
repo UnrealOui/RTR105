@@ -5,31 +5,25 @@
     5  :)
     6  :O
     7  čau
-    8  firefox &
-    9  uname
-   10  firefox
-   11  firefox &
-   12  uname
-   13  firefox &
-   14  uname
-   15  uname -f
-   16  uname -r
-   17  uname -a
-   18  history
-   19  echo $0
-   20  man uname
-   21  name -p
-   22  uname -p
-   23  man man man
-   24  whoami
-   25  who
-   26  pwd
-   27  man pwd
-   28  ls
-   29  ls -l
-   30  ls -a
-   31  ls -ea
-   32  ls -e
-   33  ls -la
-   34  history
-   35  history > history_20180904.txt
+    8  uname
+    9  uname -f
+   10  uname -r
+   11  uname -a
+   12  history
+   13  echo $0
+   14  man uname
+   15  name -p
+   16  uname -p
+   17  man man
+   18  whoami
+   19  who
+   20  pwd
+   21  man pwd
+   22  ls
+   23  ls -l
+   24  ls -a
+   25  ls -ea
+   26  ls -e
+   27  ls -la
+   28  history
+   29  history > history_20180904.txt
