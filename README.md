@@ -1,5 +1,6 @@
 # RTR105
 ###### Datormācības kursa e-klade
+###### [RTU Site](https://edx2.etf.rtu.lv/portal).
 ## Pirma nodarbība :+1:
 **firefox & :**
 > *Atver FirefoxWebBrowser*
