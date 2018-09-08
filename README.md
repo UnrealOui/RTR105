@@ -1,44 +1,44 @@
 # RTR105
 ###### Datormācības kursa e-klade
 ## Pirma nodarbība :+1:
-firefox & :
+**firefox & :**
 > Atver FirefoxWebBrowser
 
-echo $0 :
+**echo $0 :**
 > Parada Shell versiju
 
-man :
+**man :**
 > Parada info par jebkuru komandu
 
-whoami :
+**whoami :**
 > Parada datora lietotāja vārdu
 
-who :
+**who :**
 > Parada kurš ir piesliegts
 
-pwd :
+**pwd :**
 > Parada esošo direktoriju
 
-uname :
+**uname :**
 > Izdruka sistēmas info
 
-uname -r :
+**uname -r :**
 > Izdruka kodola info
 
-uname -a :
+**uname -a :**
 > Izdruka visu info izņemot -p un -i
 
-ls :
+**ls :**
 > Parada mapes
 
-ls -a :
+**ls -a :**
 > Parada visas mapes(ari pasleptos/ignorējot . zīmi)
 
-ls -l :
+**ls -l :**
 > Parada mapes ar papildinfo
 
-ls -la :
+**ls -la :**
 > Parada katro lietotāju mapes un failus ar papildinfo
 
-history :
+**history :**
 > Parada rakstīto terminālā
