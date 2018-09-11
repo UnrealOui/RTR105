@@ -9,15 +9,20 @@
 - *ArrowUp/ArrowDown - U can repeat all previous cmd's*
 
 **firefox & :**
-> *Open FirefoxWebBrowser*  
+> *Open FirefoxWebBrowser*
+
 **echo $0 :**
-> *Shell version*  
+> *Shell version*
+
 **man :**
-> *Info about any cmd*  
+> *Info about any cmd*
+
 **whoami :**
-> *Show PC username*  
+> *Show PC username*
+
 **who :**
-> *Parada kurš ir piesliegts*  
+> *Parada kurš ir piesliegts*
+
 **pwd :**
 > *Parada esošo direktoriju*
 
@@ -73,3 +78,7 @@
 > *Open simple text redactor with chosen file*
 
 **cp FileName.txt FileName2.txt** 
+> *Copy File/Directory*
+
+**mv FileName.txt Directory/**
+> *Move File to Directory (add *.txt to move all txt files)*
