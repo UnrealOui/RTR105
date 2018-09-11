@@ -1,11 +1,12 @@
 # RTR105
 ###### Datormācības kursa e-klade
 ###### [RTU Site](https://edx2.etf.rtu.lv/portal).
-## Pirma nodarbība :+1:
+## Pirmas nodarbības :+1:
 **Terminals**
 - *Ctrl+Alt+T = Open Terminal*
 - *Ctrl+Shift+T = Terminal new Tab*
 - *Tab - Autofill cmd*
+- *ArrowUp/ArrowDown - U can repeat all previous cmd's*
 
 **firefox & :**
 > *Atver FirefoxWebBrowser*
@@ -48,3 +49,14 @@
 
 **history :**
 > *Parada rakstīto terminālā*
+
+**mkdir FileName**
+> *Create folder*
+
+**rm Filename**
+> *Remove Folder* Only if its empty. If not - add -r (rm Filename -r)
+
+****
+
+**echo "text" > FileName.txt**
+> *Create new text file with "text"*
