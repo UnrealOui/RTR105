@@ -8,53 +8,53 @@
 - *Tab - Autofill cmd*
 - *ArrowUp/ArrowDown - U can repeat all previous cmd's*
 
-**firefox & :**
+**firefox &**
 > *Open FirefoxWebBrowser*
 
-**echo $0 :**
+**echo $0**
 > *Shell version*
 
-**man :**
+**man**
 > *Info about any cmd*
 
-**whoami :**
+**whoami**
 > *Show PC username*
 
-**who :**
+**who**
 > *Parada kurš ir piesliegts*
 
-**pwd :**
+**pwd**
 > *Parada esošo direktoriju*
 
-**uname :**
+**uname**
 > *Izdruka sistēmas info*
 
-**uname -r :**
+**uname -r**
 > *Izdruka kodola info*
 
-**uname -a :**
+**uname -a**
 > *Izdruka visu info izņemot -p un -i*
 
-**ls :**
+**ls**
 > *Parada mapes*
 
-**ls -a :**
+**ls -a**
 > *Parada visas mapes(ari pasleptos/ignorējot . zīmi)*
 
-**ls -l :**
+**ls -l**
 > *Parada mapes ar papildinfo*
 
-**ls -la :**
+**ls -la**
 > *Parada katro lietotāju mapes un failus ar papildinfo*
 
-**history :**
+**history**
 > *Parada rakstīto terminālā*
 
 **mkdir FileName**
 > *Create folder*
 
 **rm Filename**
-> *Remove Folder* Only if its empty. If not - add -r (rm Filename -r)
+> *Remove Folder Only if its empty. If not - add -r (rm Filename -r). Add *.txt if u want remove all txt files*
 
 **cd**
 > *Change directory(cd FolderName/   cd ../   cd./)*
@@ -82,3 +82,6 @@
 
 **mv FileName.txt Directory/**
 > *Move File to Directory (add *.txt to move all txt files)*
+
+**mv FileName.txt FileName2.txt**
+> *Change file name*
