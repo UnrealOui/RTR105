@@ -9,16 +9,16 @@
 - *ArrowUp/ArrowDown - U can repeat all previous cmd's*
 
 **firefox & :**
-> *Atver FirefoxWebBrowser*
+> *Open FirefoxWebBrowser*
 
 **echo $0 :**
-> *Parada Shell versiju*
+> *Shell version*
 
 **man :**
-> *Parada info par jebkuru komandu*
+> *Info about any cmd*
 
 **whoami :**
-> *Parada datora lietotāja vārdu*
+> *Show PC username*
 
 **who :**
 > *Parada kurš ir piesliegts*
