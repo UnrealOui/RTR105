@@ -3,9 +3,9 @@
 ###### [RTU Site](https://edx2.etf.rtu.lv/portal).
 ## Pirma nodarbība :+1:
 **Terminals**
-- *Ctrl+Alt+T = Open Terminal
-- Ctrl+Shift+T = Terminal new Tab
-- Tab - Autofill cmd*
+- *Ctrl+Alt+T = Open Terminal*
+- *Ctrl+Shift+T = Terminal new Tab*
+- *Tab - Autofill cmd*
 
 **firefox & :**
 > *Atver FirefoxWebBrowser*
