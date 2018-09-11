@@ -1,0 +1,133 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  pdw
+    5  pwd
+    6  notepad
+    7  firefox&
+    8  matlab
+    9  firefox &
+   10  simulink
+   11  matlab
+   12  whoami
+   13  pwd
+   14  ls
+   15  ls -l
+   16  cd Desktop/
+   17  pwd
+   18  ls -l
+   19  cd /home/user
+   20  pwd
+   21  cd Desktop/
+   22  ls-la
+   23  ls -la
+   24  cs .
+   25  cd .
+   26  pwd
+   27  cd ..
+   28  pwd
+   29  ls -la
+   30  cd .
+   31  cd ..
+   32  pwd
+   33  cd..
+   34  cd ..
+   35  pwd
+   36  cd ..
+   37  cd /
+   38  pwd
+   39  cd Desktop/
+   40  cd ~
+   41  pwd
+   42  cd /
+   43  cd
+   44  cd ../
+   45  cd /
+   46  cd ~/
+   47  pwd
+   48  cd~/
+   49  ls -l
+   50  mkdir ManaMape
+   51  ls -l
+   52  cd ManaMape/
+   53  ls
+   54  ls -la
+   55  cd .
+   56  pwd
+   57  cd ..
+   58  pwd
+   59  rmdir ManaMape/
+   60  ls -la
+   61  ls
+   62  mkdir ManaMape
+   63  ls
+   64  cd ManaMape/
+   65  pwd
+   66  mkdir ManaPapildusMape
+   67  ls -l
+   68  cd ManaPapildusMape/
+   69  cd
+   70  rmdir ManaMape/
+   71  man rmdir
+   72  man rm
+   73  rm ManaMape/
+   74  rm ManaMape/ -f
+   75  rm ManaMape/ --force
+   76  rm ManaMape/ -r
+   77  ls
+   78  man rm
+   79  man echo
+   80  echo "teksts"
+   81  echo "Teksts teksts TeKsTs"
+   82  echo -e "Teksts\n teksts\n TeKsTs"
+   83  echo -e "Teksts\nteksts\nTeKsTs"
+   84  echo "teksts" > fails1.txt
+   85  ls
+   86  ls -l
+   87  echo "teksts" > ../fails1.txt
+   88  cd ..
+   89  ls -l
+   90  cd
+   91  ls -l
+   92  cat fails1.txt 
+   93  ;s
+   94  ls
+   95  echo "cits teksts" > fails1.txt
+   96  cat fails1.txt 
+   97  echo "teksts" > fails1.txt
+   98  cat fails1.txt 
+   99  echo "cits teksts" >> fails1.txt
+  100  cat fails1.txt 
+  101  ls -l
+  102  ls -l fails1.txt 
+  103  man rgrep
+  104  history
+  105  ls -l
+  106  man chmod 
+  107  chmod 700 fails1.txt 
+  108  ls -l fails1.txt 
+  109  chmod 400 fails1.txt 
+  110* 
+  111  echo "teksts" > fails1.txt
+  112  echo "cits teksts" >> fails1.txt
+  113  chmod 600 fails1.txt 
+  114  ls -l fails1.txt 
+  115  nano fails1.txt 
+  116  ls -l
+  117  cp fails1.txt fails3.txt 
+  118  ls -l
+  119  mv *.txt Music/
+  120  ls -l
+  121  cd Music/
+  122  ls -l
+  123  mv *.txt ../
+  124  ls -l
+  125  cd
+  126  ls -l
+  127  mv fails1.txt fails31.txt
+  128  ls -l
+  129  rm *3*.txt 
+  130  ls -l
+  131  rm fails2.txt 
+  132  history
+  133  history > history_20180911.txt
