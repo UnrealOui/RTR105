@@ -41,3 +41,14 @@
    41  history > history_20180912.txt
    42  ls -l
    43  history > history_20180918.txt
+   44  rm history_20180912.txt 
+   45  ls -l
+   46  chmod 764 git-upload
+   47  ls -l
+   48  ./git-upload
+   49  ./git-upload 20180918_14_05
+   50  python
+   51  ipython
+   52  idle &
+   53  ls -l
+   54  history > history_20180918.txt
