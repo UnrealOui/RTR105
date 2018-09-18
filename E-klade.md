@@ -7,6 +7,7 @@
 - *Ctrl+Shift+T = Terminal new Tab*
 - *Tab - Autofill cmd*
 - *ArrowUp/ArrowDown - U can repeat all previous cmd's*
+- *Ctrl+L = Hide previous cmd's*
 
 **firefox &**
 > *Open FirefoxWebBrowser*
@@ -85,3 +86,9 @@
 
 **mv FileName.txt FileName2.txt**
 > *Change file name*
+
+**echo -e "mkdir FolderName\ncd FolderName" > FileName.sh**
+> *Create script(.sh) with cmd's*
+
+**whereis FileName**
+> *Will show where is file*

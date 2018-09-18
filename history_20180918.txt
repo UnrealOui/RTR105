@@ -1,0 +1,43 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  dfq?
+    4  echo                                                                           
+    5  echo $PATH
+    6  ls -l
+    7  PATH=$PATH:/home/user:~/Mape
+    8  echo $PATH
+    9  create_in.sh
+   10  cd Mape/
+   11  ../
+   12  ./
+   13  ../
+   14  cd ../
+   15  dfq
+   16  nano create_in.sh 
+   17  create_in.sh
+   18  ls -l
+   19  pwd
+   20  ls -l
+   21  git clone https://github.com/UnrealOui/RTR105
+   22  ls -l
+   23  cd RTR105/
+   24  ls -l
+   25  nano E-klade.md 
+   26  dfq?
+   27  dfq
+   28  ls -l
+   29  cd
+   30  ls -l
+   31  cd RTR105/
+   32  ls -l
+   33  nano E-klade.md
+   34  ls -l
+   35  nano E-klade.md
+   36  nano git-upload
+   37  ls -l
+   38  nano git-upload 
+   39  git-upload
+   40  nano git-upload 
+   41  history > history_20180912.txt
+   42  ls -l
+   43  history > history_20180918.txt
