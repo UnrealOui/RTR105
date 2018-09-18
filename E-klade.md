@@ -1,6 +1,6 @@
 # RTR105
 ###### Datormācības kursa e-klade
-###### [RTU Site](https://edx2.etf.rtu.lv/portal).
+###### [SAKAI SITE](https://edx2.etf.rtu.lv/portal). [ASCII TABLE](http://www.ecowin.org/ascii.htm).
 ## Pirmas nodarbības :+1:
 **Terminals**
 - *Ctrl+Alt+T = Open Terminal*
