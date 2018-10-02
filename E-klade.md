@@ -92,3 +92,5 @@
 
 **whereis FileName**
 > *Will show where is file*
+
+**
