@@ -331,4 +331,4 @@ What rate is it? 2.3
 How much u where here? 23
 What rate is it? 1.762
 ('U should pay: ', 40.526)
->>> 
+>>>  
