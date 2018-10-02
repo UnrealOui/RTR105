@@ -1,0 +1,79 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  git clone https://github.com/UnrealOui/RTR105
+    5  ls -l
+    6  cd RTR105/
+    7  idle &
+    8  ls -l
+    9  rm script1.py 
+   10  ls -l
+   11  git-upload
+   12  nano readme.md
+   13  nano E-klade.md
+   14  history > history_20181002a.txt
+   15  ./git-upload 
+   16  ./git-upload
+   17  chmod 764 git-upload 
+   18  ./git-upload 
+   19  nano git-upload 
+   20  ./git-upload
+   21  ls -l
+   22  chmod 777 git-upload 
+   23  ./git-upload
+   24  ls -l
+   25  ./git-upload
+   26  .git/
+   27  ./git-upload 
+   28  ls -l
+   29  mv git-upload cd/
+   30  ../
+   31  /..
+   32  ./
+   33  cd
+   34  ./
+   35  ls -l
+   36  cd /RTR105
+   37  cd ./RTR105
+   38  ./git-upload 
+   39  ./git-upload
+   40  mv git-upload cd/
+   41  mv git-upload cd
+   42  ls -l
+   43  mv cd git-upload
+   44  ls -l
+   45  ./git-upload UnrealOui
+   46  cd
+   47  ./git-upload /RTR105
+   48  cd ./RTR105
+   49  ./git-upload /RTR105
+   50  nano git-upload 
+   51  ./git-upload 
+   52  nano dgr_20181002.py
+   53  ./git-upload 20181002a
+   54  nano script20181002.py 
+   55  idle *
+   56  idle &
+   57  ./git-upload 20181002_13_30
+   58  cd
+   59  idle &
+   60  rm -rf RTR105/
+   61  ls -l
+   62  rm test123.py 
+   63  ls -l
+   64  firefox &
+   65  git clone https://github.com/UnrealOui/RTR105
+   66  idle &
+   67  cd /RTR105
+   68  ls -l
+   69  cd ./RTR105
+   70  idle &
+   71  ls =l
+   72  ls -l
+   73  mv test123.py rps.py
+   74  ls -l
+   75  idle &
+   76  ls -l
+   77  nano 1st_prog.py 
+   78  history
+   79  history > history_20181002b.txt
