@@ -11,4 +11,4 @@
    11  git-upload
    12  nano readme.md
    13  nano E-klade.md
-   14  history > history_20181002a.txt
+   14  history > history_20181002a.txt 
