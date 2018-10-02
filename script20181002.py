@@ -1,3 +1,6 @@
-hrs = input('How much u where here? ')
-rt = input("What rate is it? ")
-print("U should pay: ", hrs * rt) 
+hrs = input("Enter Hours:")
+rat = input("Enter Rate:")
+hrs = float(hrs)
+rat = float(rat)
+pay = hrs * rat
+print(pay)
