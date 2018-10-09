@@ -1,0 +1,8 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  git clone https://github.com/UnrealOui/RTR105
+    5  cd rtr105/
+    6  cd RTR105/
+    7  idle &
+    8  history > history_20181009.txt
