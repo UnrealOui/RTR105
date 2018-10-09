@@ -9,6 +9,9 @@
 - *ArrowUp/ArrowDown - U can repeat all previous cmd's*
 - *Ctrl+L = Hide previous cmd's*
 
+**Github**
+> *git clone https://github.com/UnrealOui/RTR105*
+
 **firefox &**
 > *Open FirefoxWebBrowser*
 
