@@ -10,7 +10,7 @@
 - *Ctrl+L = Hide previous cmd's*
 
 **Github**
-> *git clone https://github.com/UserName/ReposytoryName*
+> *git clone https://github.com/UnrealOui/RTR105*
 
 **firefox &**
 > *Open FirefoxWebBrowser*
