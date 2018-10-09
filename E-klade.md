@@ -9,6 +9,9 @@
 - *ArrowUp/ArrowDown - U can repeat all previous cmd's*
 - *Ctrl+L = Hide previous cmd's*
 
+**Github**
+> *git clone https://github.com/UserName/ReposytoryName*
+
 **firefox &**
 > *Open FirefoxWebBrowser*
 
