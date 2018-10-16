@@ -1,0 +1,11 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  git clone http://github.com/login/RTR105
+    5  git clone http://github.com/UnrealOui/RTR105
+    6  cd RTR105
+    7  firefox &
+    8  ls -l
+    9  nano E-klade.md 
+   10  idle &
+   11  history > history_20181016.txt
