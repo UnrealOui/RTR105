@@ -1,0 +1,8 @@
+X-DSPAM-Confidence: 0.7565
+X-DSPAM-Probability: 0.0000
+X-DSPAM-Confidence: 0.6961
+X-DSPAM-Probability: 0.0000
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed: Sat Jan  5 09:14:16 2008
+X-DSPAM-Confidence: 0.8475
+X-DSPAM-Probability: 0.0000
