@@ -10,7 +10,7 @@ from numpy import random
 # pseido-gadījumu skaitļu ģenerqatora grauds
 # random.seed(1)
 
-N = 10000
+N = 1000
 
 x = random.uniform(0,5,N)
 #x = random.normal(0,5,N)

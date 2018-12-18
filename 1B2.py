@@ -12,7 +12,7 @@ from matplotlib import pyplot as plt
 plt.grid()
 plt.xlabel('x')
 plt.ylabel('f(x)')
-plt.title('Funkcija $cos(x)$')
+plt.title('Funkcija $sin(x)$')
 plt.plot(x, y, color = "#FF0000")   #red
 y1 = x
 plt.plot(x, y1, color = "#00FF00")  #green
